@@ -1,7 +1,7 @@
 <h1>Interface de login da Rocketseat</h1>
 <p>Interface de login da Rocketseat criada com ReacJS e Next aplicanto Design Systems com Chakra UI</p>
 
-  <img src="./github/preview.png" alt="demo-page" height="300">
+  <img src="./github/preview.png" alt="demo-page" height="400">
 
 ## Getting Started
 
