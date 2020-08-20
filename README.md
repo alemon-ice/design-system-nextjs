@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-Execute um dos comandos abaixo para instalar as dependências:
+Instale as dependências do projeto:
 
 ```bash
 npm install
