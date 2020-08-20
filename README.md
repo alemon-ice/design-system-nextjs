@@ -1,18 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>Interface de login da Rocketseat</h1>
+<p>Interface de login da Rocketseat criada com ReacJS e Next aplicanto Design Systems com Chakra UI</p>
+
+  <img src="./github/preview.png" alt="demo-page" height="300">
 
 ## Getting Started
 
-First, run the development server:
+Execute um dos comandos abaixo para instalar as dependências:
+
+```bash
+npm install
+# ou
+yarn
+```
+
+Execute o servidor de desenvolvimento:
 
 ```bash
 npm run dev
-# or
+# ou
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+A página estará disponível em [http://localhost:3000](http://localhost:3000), basta acessar pelo navegador.
 
 ## Learn More
 
